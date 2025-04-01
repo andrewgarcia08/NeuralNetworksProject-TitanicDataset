@@ -9,6 +9,8 @@ __Tool 1__: Data Loading and Exploration
 Necessary libraries such as pandas and matplotlib are imported, and the Titanic dataset (Titanic.csv) is uploaded into df and copied as df1 for purposes of analyzing. The first five rows are displayed to inspect the variables. Null values are also checked and are either removed or filled in. 
 
 <img src="assets/initialDataDisplay.jpg" width="350">
+
+
 <img src="assets/dataExplorationImage.jpg" width="350">
 
 
