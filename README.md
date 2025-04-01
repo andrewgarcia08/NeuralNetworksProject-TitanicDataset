@@ -1,7 +1,7 @@
 # Neural Networks Project using Titanic.csv Dataset
 <a href="Andrew_Garcia_Neural_Networks_Project_1.ipynb" download>View Jupyter Project File</a>
 
-### Project Overview
+### Overview
 This project utilizes a neural network to analyze the Titanic dataset provided, predicting passenger survival based on various attributes. The dataset includes features such as __survival status, passenger class, gender, age, and fare__, among others. The workflow involves data loading, preprocessing, model training and performance evaluation.
 
 
