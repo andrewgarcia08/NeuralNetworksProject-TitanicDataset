@@ -8,7 +8,10 @@ __Tool 1__: Data Loading and Exploration
 Necessary libraries such as pandas and matplotlib are imported, and the Titanic dataset (Titanic.csv) is uploaded into df and copied as df1 for purposes of analyzing. The first five rows are displayed to inspect the variables. Null values are also checked and are either removed or filled in. 
 
 __Tool 2__: Data Visualization and Training
-The data is split into train and test sets that will be used in defining the model architecture and determining the number of epochs and batch sizes to create a model accuracy and loss. A for-loop is used for the batch sizes and epochs to run through every scenario with the greatest accuracy.
+The data is split into train and test sets that will be used in defining the model architecture and determining the number of epochs and batch sizes to create model accuracy and loss. A for-loop is used for the batch sizes and epochs to run through every scenario with the greatest accuracy.
+
+<img src="modelArchitectureImage.jpg" width="500">
+<img src="neuralNetworkTuningImage.jpg" width="500">
 
 __Tool 3__: Model Compilation and Employing a Neural Network
 
@@ -19,6 +22,9 @@ The code also prints out the best parameters in batch sizes and epochs along wit
 
 
 ### Results
+<img src="modelAccuracyImage.jpg" width="400">
+<img src="modelLossImage.jpg" width="400">
+
 __Accuracy Plot__: Illustrated training and validation accuracy trends, indiciating model learning behavior
 __Loss Plot__: Showed training and validation loss, providing insights into model optimization and potential overfitting in the dataset.
 
